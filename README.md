@@ -1,6 +1,5 @@
 # Description
-This is a Pizza Delivery website.This website is fully developed in react js.
-
+This is a facebook clone app.This App is fully developed in React Native 
 # Installation
 Install my-project with npm
 
